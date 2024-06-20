@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+.samecopy{
+  border-right: 5px solid black;
+  padding: 20px;
+  border-bottom: 5px solid black;
+  height: 5vh;
+  width: 6.5vw;
+}
+.same{
+  border-right: 5px solid black;
+  height: 10vh;
+  width: 5vw;
+  
+}
+.copy{
+  border-bottom: 5px solid black;
+  height: 7vh;
+  width: 5vw;
+}
+.btn1{
+  text-decoration: none;
+  color: black;
+
+  margin-left: 10px;
+}
+.btn{
+  text-decoration: none;
+ 
+  color: black;
+}
